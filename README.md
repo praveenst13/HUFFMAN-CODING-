@@ -25,7 +25,7 @@ Print the characters and its huffmancode.
 ```
 Developed By: Praveen S
 Register No: 212222240077
-
+```
 ### Get the input String
 ```python
 string = 'PRAVEEN S 212222240077'
@@ -78,6 +78,7 @@ for (char, frequency) in freq:
 ```
 ## Output:
 
+![image](https://github.com/praveenst13/HUFFMAN-CODING-/assets/118787793/b175768b-4a15-427c-acad-919cfd2980bd)
 
 
 ## Result
